@@ -7,7 +7,9 @@ property files in order to switch between executing an embedded mongoDB integrat
 
 The Project uses Spring Boot Testing 1.5 which allows you to test a slice of you application via the use the @DataMongoTest annotation and also how to perform more broad based integration testing via the use of the @SpringBootTest annotation.
 
+You can also follow along with my YouTube video Tutuorial
+https://youtu.be/VeFr1CRFdC4
+
 You can follow the Blog Post which goes along with this Project on mvpjava.com
 http://mvpjava.com/spring-boot-integration-testing/ 
-
 
